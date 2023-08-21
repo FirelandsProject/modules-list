@@ -1,6 +1,6 @@
 ## Mod List
 
-[English](./README.md) | [Español](./README-ES.md)
+[English](https://github.com/FirelandsProject/modules-list/blob/main/README.md) | [Español](https://github.com/FirelandsProject/modules-list/blob/main/README-ES.MD)
 
 There is an Official Mods for Firelands Core, if you want to add a module, please make a PR sharing your module.
 
