@@ -1,6 +1,6 @@
 ## Lista de Mods
 
-[English](./README.md) | [Español](./README-ES.md)
+[English](https://github.com/FirelandsProject/modules-list/blob/main/README.MD) | [Español](https://github.com/FirelandsProject/modules-list/blob/main/README-ES.MD)
 
 Esta es la lista de mods oficial para Firelands Core, si quieres agregar un nuevo modulo, no dudes en hacer un PR aqui compartiendo tu módulo compatible con Firelands Core.
 
