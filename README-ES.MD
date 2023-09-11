@@ -7,3 +7,4 @@ Esta es la lista de mods oficial para Firelands Core, si quieres agregar un nuev
 - [Recluta a un amigo](https://github.com/FirelandsProject/mod-recruit-a-friend)
 - [Solo Craft](https://github.com/FirelandsProject/mod-SoloCraft-Cata)
 - [Saltar areas iniciales (Dk, Worgen, Goblin)](https://github.com/FirelandsProject/mod-Skip-Starter-Cata)
+- [Experincia Individual](https://github.com/FirelandsProject/mod-individual-xp)
