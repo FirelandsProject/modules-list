@@ -6,3 +6,4 @@ There is an Official Mods for Firelands Core, if you want to add a module, pleas
 
 - [Recruit a Friend](https://github.com/FirelandsProject/mod-recruit-a-friend)
 - [Solo Craft](https://github.com/FirelandsProject/mod-SoloCraft-Cata)
+- [Skip starter areas (DK, Worgen, Goblin)](https://github.com/FirelandsProject/mod-Skip-Starter-Cata)
